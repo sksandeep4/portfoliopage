@@ -1,0 +1,34 @@
+body {
+  background-color: #282c35;
+}
+.headnav {
+  background-color: #282c35;
+  color: #6fecdc;
+  width: 80%;
+  height: 100%;
+  margin: 20px auto 0;
+  /* display: inline-block; */
+}
+.right-headnav {
+  /* display: inline-block; */
+  padding-right: 30px;
+  float: right;
+}
+.left-headnav {
+  /* display: inline-block; */
+  float: left;
+  height: 50px;
+}
+.left-headnav p {
+  font-size: 22px;
+}
+.nav-items {
+  color: #6fecdc;
+  text-decoration: none;
+  margin: 10px 15px 10px 15px;
+  float: left;
+}
+.hero {
+  margin-top: 100px;
+  /* display: block; */
+}
